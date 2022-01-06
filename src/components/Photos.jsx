@@ -81,11 +81,11 @@ signOut()
     {
     sessionStorage.removeItem('Email')
     }
-    window.open('/','_self')
+    window.open('/photo-gallery-react','_self')
 }
 goBack()
 {
-    window.open('/#/album','_self')
+    window.open('/photo-gallery-react/#/album','_self')
 }
 
 

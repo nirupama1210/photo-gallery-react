@@ -329,7 +329,7 @@ signOut()
     {
     sessionStorage.removeItem('Email')
     }
-    window.open('/','_self')
+    window.open('/photo-gallery-react','_self')
 }
 
 render() {
