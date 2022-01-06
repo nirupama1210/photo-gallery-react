@@ -13,6 +13,7 @@
     "file-saver": "^2.0.5",
     "firebase": "^9.6.1",
     "framer-motion": "^5.5.5",
+    "gh-pages": "^3.2.3",
     "prop-types": "^15.8.0",
     "react": "^17.0.2",
     "react-copy-to-clipboard": "^5.0.4",

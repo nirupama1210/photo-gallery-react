@@ -114,7 +114,7 @@ class Login extends Component {
                         localStorage.setItem("User",this.state.nameVal+" "+this.state.passVal);
                     } 
                     sessionStorage.setItem("Email",st);
-              window.open('/#/album','_self')
+              window.open('/photo-gallery-react/#/album','_self')
                 }
                 else{
                     this.setState({
