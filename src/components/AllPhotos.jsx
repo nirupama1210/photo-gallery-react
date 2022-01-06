@@ -36,7 +36,7 @@ class Child extends Component {
         // console.log(this.state)
         if(!sessionStorage.getItem("Email"))
         {
-            window.open('/','_self')
+            window.open('/photo-gallery-react','_self')
         }
     }
     

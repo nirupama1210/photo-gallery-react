@@ -63,7 +63,7 @@ class Albums extends Component {
         }
         if(!sessionStorage.getItem("Email"))
         {
-            window.open('/','_self')
+            window.open('/photo-gallery-react','_self')
         }
         //this.checkEmailUser= this.checkEmailUser.bind(this);
     }
